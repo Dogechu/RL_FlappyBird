@@ -20,7 +20,7 @@ This repository contains an individual assignment for the **Reinforcement Learni
 
 ## Training and Implementation
 
-Most of the work was conducted in Jupyter notebooks, primarily executed on **Google Colab** to take advantage of available computing resources. 
+Most of the work was conducted in Jupyter notebooks(Flapy_Bird.ipynb), primarily executed on **Google Colab** to take advantage of available computing resources. 
 
 After extensive experimentation, both trained agents are capable of achieving **a score of at least 1000 without mistakes**. The trained models are stored in `.pkl` format within their respective directories.
 
