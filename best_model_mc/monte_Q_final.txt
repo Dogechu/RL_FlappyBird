@@ -1,0 +1,1 @@
+defaultdict(<function MonteCarloQLearningAgent.__init__.<locals>.<lambda> at 0x7d874b1cafc0>, {(13, -5): [0, 0], (12, -5): [0, 0], (11, -3): [0, 0], (10, 1): [0, 0]})
